@@ -1,3 +1,27 @@
+body{
+    text-align: center;
+}
+
+
 span{
-    color: rgb(205, 201, 201);
+    color: rgb(121, 120, 120);
+    font-weight: bold;
+    
+}
+
+.item{
+    float: left;
+    width:33.3333%
+    
+}
+
+.clear{
+    clear: left;
+}
+
+
+.end{
+
+    display: inline-block;
+    width: 1000px;
 }
